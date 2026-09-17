@@ -1997,5 +1997,3 @@ fastapi-orm-workshop/
 └── venv/
 ```
 
-This version is suitable for students because every required command and code section is directly copyable, while the **final exercise is intentionally not fully solved**, requiring them to apply the ORM relationships themselves.
-
